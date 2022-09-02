@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div className={styles.wrapper}>
       <Head>
-        <title>Medium | Clever Programmer</title>
+        <title>Medium</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <Header />
